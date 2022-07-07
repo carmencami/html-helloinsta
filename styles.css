@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+main {
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    margin: auto auto;
+}
+#photoinsta {
+    width: 350px;
+    height: 250px; ;
+}
+#icondiv{
+    height: 100%;
+    width: 50px;
+    text-align: center;
+    align-items: center;
+}
+
+#logohtml {
+margin-top: 20%;
+}
+#names {
+    height: 100%;
+    width: 275px;
+}
+#html5{
+font-size: 12px;
+padding: 0px;
+margin: 0px;
+margin-top: 5% ;
+}
+#rigoberto{
+    font-size: 10px;
+    padding: 0px;
+    margin: 0px;
+
+}
+#iconline{
+    margin-top: 5%;
+}
+header {
+    display: flex;
+    height: 50px;
+
+}
+#pictureicons {
+    display: flex;
+}
+#rigthicons {
+margin-left: auto;
+}
